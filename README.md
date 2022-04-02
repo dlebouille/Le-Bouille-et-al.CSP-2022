@@ -6,6 +6,6 @@ Tool to estimate predicted costs of individual protected areas using the results
 
 For:
 --
-<b>Title:</b> <u>Spatio-temporal variation in costs of managing protected areas</u><br>
+<b>Title:</b> Spatio-temporal variation in costs of managing protected areas<br>
 <b>Journal:</b> <i>Conservation Science and Practice</i><br>
 <b>Authors:</b> Le Bouille D., Fargione J. and Armsworth, P.R.
