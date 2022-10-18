@@ -8,7 +8,7 @@
 # Project: Appalachians
 # Date   : 14 Nov. 2020
 # What?  : Manually edited distance to office when it varied through time
-#		   Solve the merged site pbm (IPBS 1082348841645335) in GIS before re-running the extraction code
+#		   Solve the merged site pbm in GIS before re-running the extraction code
 #
 # Output: "DataNoTime.csv""and "DataPanel.csv"
 #         And all the model fitting data and graphs that are in the "SI-StepbyStep" file (in the "__Writings" folder)
